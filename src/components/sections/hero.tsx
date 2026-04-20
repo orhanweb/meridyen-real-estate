@@ -2,7 +2,6 @@
 import { ArrowRight, MoveDown } from 'lucide-react';
 import { useLocale, useTranslations } from 'next-intl';
 import Image from 'next/image';
-import heroImage from '@/assets/hero/main.jpg';
 import { FadeIn } from '@/components/motion/fade-in';
 import { Parallax } from '@/components/motion/parallax';
 import { RevealText } from '@/components/motion/reveal-text';
@@ -29,13 +28,12 @@ export function Hero() {
       <div aria-hidden className="absolute inset-0 -z-10 overflow-hidden">
         <Parallax offset={140} scale={1.12}>
           <Image
-            src={heroImage}
+            src={siteConfig.assets.hero.src}
             alt={siteConfig.assets.hero.alt}
             fill
             priority
             sizes="100vw"
-            quality={75}
-            placeholder="blur"
+            quality={85}
             className="object-cover"
           />
         </Parallax>
