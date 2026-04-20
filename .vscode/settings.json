@@ -1,0 +1,8 @@
+{
+  // Tailwind v4 ships first-class CSS at-rules (`@theme`, `@utility`,
+  // `@variant`, `@custom-variant`) that VS Code's built-in CSS linter does
+  // not recognise. Silencing this rule is the official guidance from the
+  // Tailwind editor-setup docs and only affects unknown at-rules — real CSS
+  // syntax errors are still surfaced.
+  "css.lint.unknownAtRules": "ignore"
+}

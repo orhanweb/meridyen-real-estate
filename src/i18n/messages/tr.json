@@ -1,0 +1,464 @@
+{
+  "metadata": {
+    "title": "Meridyen Gayrimenkul | Ankara'da Köklü Gayrimenkul Danışmanlığı",
+    "description": "Meridyen Gayrimenkul, Ankara'da villa, daire, arsa ve dükkan alım-satım ve kiralama süreçlerinde 17 yıllık tecrübeyle danışmanlık sunar.",
+    "keywords": "Ankara emlak, Ankara gayrimenkul, villa, daire, arsa, dükkan, satılık, kiralık, danışmanlık"
+  },
+  "seo": {
+    "ogTitle": "Ankara'nın gayrimenkul adresi · Meridyen Gayrimenkul",
+    "ogDescription": "Villa, daire, arsa ve dükkan tarafında 17 yıllık tecrübe. Çankaya'dan Bilkent'e Ankara'nın aranan bölgelerinde yanınızdayız.",
+    "ogImageAlt": "Meridyen Gayrimenkul · Ankara'da köklü gayrimenkul danışmanlığı"
+  },
+  "nav": {
+    "about": "Hakkımızda",
+    "services": "Hizmetlerimiz",
+    "regions": "Bölgelerimiz",
+    "testimonials": "Referanslar",
+    "faq": "S.S.S.",
+    "contact": "İletişim",
+    "themeToggle": "Tema değiştir",
+    "languageToggle": "Dil değiştir",
+    "openMenu": "Menüyü aç",
+    "closeMenu": "Menüyü kapat",
+    "callNow": "Hemen Ara",
+    "skipToContent": "İçeriğe geç"
+  },
+  "hero": {
+    "eyebrow": "Ankara · Köklü Gayrimenkul Danışmanlığı",
+    "title": "2008'den beri Ankara'nın gayrimenkul adresi.",
+    "subtitle": "Çankaya'dan Bilkent'e Ankara'nın aranan bölgelerinde villa, daire, arsa ve dükkan portföyüyle yanınızdayız.",
+    "primaryCta": "Bize Ulaşın",
+    "secondaryCta": "Hizmetlerimiz",
+    "scrollHint": "Aşağı kaydır",
+    "stats": {
+      "experience": "Yıllık tecrübe",
+      "transactions": "Tamamlanan işlem",
+      "satisfaction": "Müşteri memnuniyeti"
+    }
+  },
+  "about": {
+    "eyebrow": "Hakkımızda",
+    "title": "17 yıldır Ankara'da, aynı ekiple.",
+    "lead": "2008'den bu yana Çankaya merkezli ofisimizden çalışıyoruz. Portföy oluşturmaktan satışa ve kiralamaya kadar her adımı tek bir danışman yürütüyor; böylece dosyanız kimsenin elinde kaybolmuyor.",
+    "paragraph1": "Bizim için iş, sözleşme imzalandığında bitmiyor. Ekspertiz, sözleşme hukuku ve finansman tarafını sizinle birlikte oturup planlıyoruz. Karşı tarafa göndermeden önce her belgeyi okuyoruz.",
+    "paragraph2": "Ekipteki her danışman lisanslı ve çalıştığı bölgede yıllarını geçirmiş. Bir mülkün gerçek piyasa değerini, son altı aydaki benzer satışları ve fiyat aralığını size olduğu gibi gösteriyoruz.",
+    "facts": {
+      "founded": "Kuruluş",
+      "office": "Merkez ofis",
+      "team": "Lisanslı danışman",
+      "languages": "Çalışma dilleri"
+    },
+    "factsValues": {
+      "team": "12 kişilik kadro",
+      "languages": "TR · EN"
+    },
+    "imageAlt": "Meridyen Gayrimenkul ekibi ve ofis ortamı"
+  },
+  "services": {
+    "eyebrow": "Hizmetlerimiz",
+    "title": "Alım, satım, kiralama ve yatırım. Tek ekip, tek dosya.",
+    "lead": "İhtiyacınız ister bir konut alımı, ister yatırım stratejisi olsun; süreci başından sonuna aynı ekip yürütüyor.",
+    "items": {
+      "residential": {
+        "title": "Konut Alım & Satımı",
+        "description": "Çankaya, Çayyolu ve Bilkent başta olmak üzere Ankara'nın aranan bölgelerinden, sahada gezilmiş daire ve villa portföyü."
+      },
+      "rental": {
+        "title": "Kiralama",
+        "description": "Kısa ve uzun dönem kiralamada kiracı tarama, sözleşme yönetimi ve gerektiğinde tahliye sürecini sizin adınıza takip ediyoruz."
+      },
+      "investment": {
+        "title": "Yatırım Danışmanlığı",
+        "description": "Bölge bazlı kira getirisi, beklenen değer artışı ve çıkış senaryolarını birlikte konuşup yazılı bir yatırım planına döküyoruz."
+      },
+      "commercial": {
+        "title": "Arsa & Ticari Gayrimenkul",
+        "description": "Dükkan, ofis ve arsa tarafında imar durumu, ruhsat süreci ve ekspertiz işlerini sizin yerinize koşturuyoruz."
+      },
+      "valuation": {
+        "title": "Gayrimenkul Değerleme",
+        "description": "SPK lisanslı uzmanlarımız satış, kredi başvurusu ya da miras paylaşımı için savunulabilir ekspertiz raporu hazırlar."
+      },
+      "portfolio": {
+        "title": "Portföy Yönetimi",
+        "description": "Birden fazla mülkü olanlar için kira tahsilatından bakım koordinasyonuna ve aylık performans raporuna kadar tek dosyadan ilerliyoruz."
+      }
+    }
+  },
+  "regions": {
+    "eyebrow": "Bölgelerimiz",
+    "title": "Sahada gezdiğimiz, fiyatını bildiğimiz bölgeler.",
+    "lead": "Semt semt çalışıyoruz. Aşağıdaki bölgelerde aktif portföyümüz var ve satış sürelerimiz şehir ortalamasının altında kalıyor.",
+    "indicator": "Aktif portföy",
+    "propertyTypes": {
+      "villa": "Villa",
+      "apartment": "Daire",
+      "land": "Arsa",
+      "commercial": "Dükkan",
+      "office": "Ofis"
+    },
+    "items": {
+      "cankaya": {
+        "name": "Çankaya",
+        "tagline": "Diplomasi ve iş hayatının merkezi; daire ve ofis tarafında en derin portföyümüz burada."
+      },
+      "cayyolu": {
+        "name": "Çayyolu",
+        "tagline": "Aile odaklı modern siteler ve müstakil villa stoğu derin; metro hattı yaşam standardını yukarı çekti."
+      },
+      "bilkent": {
+        "name": "Bilkent",
+        "tagline": "Üniversite çevresinde planlı bir yerleşim; öğrenci ve akademisyen kiracı talebi sayesinde getiri istikrarlı."
+      },
+      "oran": {
+        "name": "Oran",
+        "tagline": "Sakin, yeşil bir doku; bahçeli müstakil ev arayanlar ve uzun vadeli arsa yatırımcıları için öne çıkıyor."
+      },
+      "beysukent": {
+        "name": "Beysukent",
+        "tagline": "Hızla şekillenen bir bölge; lüks villa hareketi ve yatırımlık arsa talebi son birkaç yıldır burada yoğunlaştı."
+      },
+      "kecioren": {
+        "name": "Keçiören",
+        "tagline": "Daire stoğu geniş, ticari hayat canlı; ilk yatırımını yapmak isteyenler için uygun bir başlangıç bölgesi."
+      }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Referanslar",
+    "title": "Müvekkillerimiz ne diyor?",
+    "lead": "İşler bittikten sonra ekibimizle ilgili paylaştıkları, biraz da nasıl çalıştığımızı anlatıyor.",
+    "items": {
+      "esra": {
+        "quote": "Mimarım, detayları sorgularım. Sorduğum her şeye sabırla cevap verdiler ve ev seçimini sadece bir alım gibi değil, uzun vadeli bir karar gibi ele aldılar.",
+        "name": "Esra Y.",
+        "role": "Mimar",
+        "location": "Çayyolu, Ankara"
+      },
+      "kaan": {
+        "quote": "Üç farklı yatırım için birlikte çalıştık. Riskli kısmı süslemediler, getirisi yüksek görünen bir mülkten 'duralım, sayılar tutmuyor' diyerek beni vazgeçirdiler. Bu kadar dürüst çalışan başka ekip görmedim.",
+        "name": "Kaan T.",
+        "role": "Yatırımcı",
+        "location": "Çankaya, Ankara"
+      },
+      "meltem": {
+        "quote": "İlk evimi alıyordum, hiçbir şey bilmiyordum. Ekspertizden kredi başvurusuna kadar her aşamada beni yormadılar. Anahtarı aldığım gün arkamda bir ekip olduğunu hissettim.",
+        "name": "Meltem A.",
+        "role": "Doktor",
+        "location": "Bilkent, Ankara"
+      },
+      "serdar": {
+        "quote": "Yıllardır satılamayan arsamızı altı ayda elden çıkardılar, hem de hak ettiği fiyata. Ticari tarafı anlayan, müşteriden çok iş ortağı gibi yaklaşan bir ekip.",
+        "name": "Serdar B.",
+        "role": "Restoran sahibi",
+        "location": "Oran, Ankara"
+      }
+    }
+  },
+  "faq": {
+    "eyebrow": "Sıkça Sorulanlar",
+    "title": "Karar vermeden önce çoğu kişinin sorduğu sorular.",
+    "lead": "Yıllar içinde en çok aldığımız soruları topladık. Cevabını burada bulamazsanız iletişim formundan yazın, kısa sürede dönüyoruz.",
+    "items": {
+      "commission": {
+        "question": "Komisyon oranı nasıl belirleniyor?",
+        "answer": "Gayrimenkul danışmanlık tarifesi yasayla her yıl güncellenir. Standart oran satışta alan ve satan taraftan ayrı ayrı %2 + KDV, kiralamada bir aylık kira bedelidir. Portföy büyüklüğüne göre özel sözleşmelerle farklı modeller de sunabiliyoruz."
+      },
+      "duration": {
+        "question": "Bir satış süreci ortalama ne kadar sürer?",
+        "answer": "Fiyatlaması doğru ve ekspertizi hazır bir mülkte ortalamamız 30–60 gün. Yol; ekspertiz, profesyonel fotoğraf çekimi, hedefli pazarlama, ön görüşmeler, niyet mektubu ve tapu devri adımlarından oluşur. İlk hafta içinde elinizde net bir takvim olur."
+      },
+      "whyMeridyen": {
+        "question": "Neden Meridyen Gayrimenkul?",
+        "answer": "17 yıllık saha tecrübesi, 12 lisanslı danışmandan oluşan bir ekip ve her dosyanın tek bir danışmana atanması. İletişim, belge takibi, ekspertiz, hukuk ve finans koordinasyonu hep aynı kişiden ilerler; üç farklı kişiyle aynı şeyi tekrar tekrar konuşmak zorunda kalmazsınız."
+      },
+      "kvkk": {
+        "question": "Kişisel verilerim nasıl korunuyor?",
+        "answer": "KVKK ve GDPR uyumlu bir veri yönetim politikamız var. Aldığımız her bilgi sözleşmesel zorunluluk ve meşru menfaat sınırı içinde saklanır; üçüncü taraflarla ancak açık rızanızla paylaşılır. Detaylı KVKK metnine sözleşme ekinden her zaman ulaşabilirsiniz."
+      },
+      "valuation": {
+        "question": "Mülküm için bağımsız ekspertiz raporu alabilir miyim?",
+        "answer": "Evet. SPK lisanslı değerleme uzmanlarımız satış, kredi başvurusu ya da miras süreçleri için bağımsız ekspertiz raporu hazırlar. Raporda son satışlardan karşılaştırma, bölge metrikleri ve gerekirse mahkemede de savunulabilen bir fiyat aralığı yer alır."
+      },
+      "remote": {
+        "question": "Ankara dışından ya da yurt dışından işlem yapabilir miyim?",
+        "answer": "Tabii. Şehir dışı ve yurt dışı müvekkillerimiz için online görüşme, dijital sözleşme ve noter vekaletiyle tüm süreci sizin adınıza yürütüyoruz. TR ve EN olarak destek veriyoruz."
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "İletişim",
+    "title": "Önce bir konuşalım.",
+    "lead": "Form üzerinden yazdığınız her mesaja {hours} saat içinde dönüş yapıyoruz, hep aynı danışmandan. Acil bir işse telefon ya da WhatsApp daha hızlı.",
+    "info": {
+      "channelsTitle": "Hızlı kanallar",
+      "callLabel": "Telefon",
+      "whatsappLabel": "WhatsApp",
+      "emailLabel": "E-posta",
+      "hoursTitle": "Çalışma saatleri",
+      "hoursWeekdays": "Pazartesi – Cuma",
+      "hoursSaturday": "Cumartesi",
+      "hoursSunday": "Pazar",
+      "hoursClosed": "Kapalı",
+      "addressTitle": "Ofis",
+      "openInMaps": "Haritada aç",
+      "responseTitle": "İlk cevap süremiz",
+      "responseValue": "{hours} saat içinde",
+      "responseHint": "Mesai saatleri içinde gelen mesajlar için ortalama."
+    },
+    "form": {
+      "title": "Bize yazın",
+      "description": "Doldurduğunuz form doğrudan ekibimizin gelen kutusuna düşer.",
+      "fields": {
+        "name": {
+          "label": "Ad Soyad",
+          "placeholder": "Örn. Mehmet Yıldız"
+        },
+        "email": {
+          "label": "E-posta",
+          "placeholder": "ornek@eposta.com"
+        },
+        "phone": {
+          "label": "Telefon (opsiyonel)",
+          "placeholder": "+90 5XX 000 00 00",
+          "hint": "WhatsApp üzerinden de dönebilelim mi?"
+        },
+        "interest": {
+          "label": "İlgilendiğiniz hizmet",
+          "placeholder": "Bir hizmet seçin",
+          "options": {
+            "residential": "Konut alım & satım",
+            "rental": "Kiralama",
+            "investment": "Yatırım danışmanlığı",
+            "commercial": "Arsa & ticari gayrimenkul",
+            "valuation": "Gayrimenkul değerleme",
+            "portfolio": "Portföy yönetimi",
+            "other": "Diğer / emin değilim"
+          }
+        },
+        "region": {
+          "label": "Tercih ettiğiniz bölge (opsiyonel)",
+          "placeholder": "Bir bölge seçin",
+          "options": {
+            "cankaya": "Çankaya",
+            "cayyolu": "Çayyolu",
+            "bilkent": "Bilkent",
+            "oran": "Oran",
+            "beysukent": "Beysukent",
+            "kecioren": "Keçiören",
+            "other": "Listede yok / başka bölge"
+          }
+        },
+        "message": {
+          "label": "Mesajınız",
+          "placeholder": "Mülkünüz, beklentileriniz ya da öğrenmek istediğiniz herhangi bir konuyu birkaç cümleyle yazabilirsiniz."
+        },
+        "consent": {
+          "label": "KVKK aydınlatma metnini okudum, kişisel verilerimin iletişim amacıyla işlenmesine onay veriyorum.",
+          "policyLink": "Aydınlatma metnini incele"
+        }
+      },
+      "submit": "İletiyi gönder",
+      "submitting": "Gönderiliyor…",
+      "success": {
+        "title": "Mesajınız bize ulaştı.",
+        "description": "{hours} saat içinde size dönüş yapacağız. Acil bir konu varsa doğrudan +90 312 000 00 00 numarasını arayabilirsiniz.",
+        "again": "Yeni bir mesaj gönder"
+      },
+      "errors": {
+        "name": "Lütfen adınızı ve soyadınızı tam yazın (en az 2 karakter).",
+        "nameMax": "Adınız 80 karakteri aşmamalı.",
+        "email": "Geçerli bir e-posta adresi yazın.",
+        "phone": "Geçerli bir telefon numarası yazın (örn. +90 5XX 000 00 00).",
+        "interest": "Lütfen bir hizmet seçin.",
+        "messageMin": "Mesajınız en az 10 karakter olmalı.",
+        "messageMax": "Mesajınız 1000 karakteri aşmamalı.",
+        "consent": "Devam etmek için KVKK onayı gereklidir.",
+        "rateLimited": "Çok hızlı gönderim algıladık. Lütfen birkaç saniye sonra tekrar deneyin.",
+        "spamSuspected": "Form doğrulaması başarısız oldu. Sayfayı yenileyip tekrar deneyin.",
+        "generic": "Mesajınız gönderilemedi. Lütfen birkaç dakika sonra tekrar deneyin."
+      },
+      "honeypot": "Bu alanı boş bırakın",
+      "requiredHint": "* işaretli alanlar zorunludur."
+    }
+  },
+  "footer": {
+    "pitch": "Ankara'da villa, daire, arsa ve dükkan portföyüyle çalışıyoruz; alım, satım ve kiralama tarafında yanınızdayız.",
+    "columns": {
+      "explore": "Keşfedin",
+      "contact": "İletişim",
+      "legal": "Yasal"
+    },
+    "legal": {
+      "privacy": "KVKK & Gizlilik",
+      "cookies": "Çerez Politikası",
+      "terms": "Kullanım Koşulları"
+    },
+    "bottom": {
+      "rights": "Tüm hakları saklıdır.",
+      "mersis": "MERSİS",
+      "taxOffice": "Vergi Dairesi",
+      "designerPrefix": "Tasarım ve geliştirme"
+    },
+    "social": {
+      "follow": "Bizi takip edin"
+    }
+  },
+  "notFound": {
+    "eyebrow": "404",
+    "title": "Sayfa bulunamadı",
+    "description": "Aradığınız sayfa kaldırılmış ya da hiç var olmamış olabilir.",
+    "cta": "Anasayfaya dön"
+  },
+  "error": {
+    "eyebrow": "Beklenmedik hata",
+    "title": "Bir aksaklık yaşandı",
+    "description": "Sayfayı yüklerken bir sorunla karşılaştık. Tekrar deneyebilir veya ana sayfaya dönebilirsiniz.",
+    "retry": "Tekrar dene",
+    "home": "Ana sayfaya dön",
+    "digestPrefix": "Hata kimliği"
+  },
+  "common": {
+    "comingSoon": "Yakında",
+    "learnMore": "Daha fazlası"
+  },
+  "legal": {
+    "lastUpdated": "Son güncelleme: Şubat 2026",
+    "templateNotice": "Bu metin örnek şablon amaçlıdır. Yayına almadan önce hukuki inceleme yaptırmanızı öneririz.",
+    "backToHome": "Ana sayfaya dön",
+    "tableOfContents": "İçindekiler",
+    "privacy": {
+      "metadataTitle": "KVKK & Gizlilik",
+      "metadataDescription": "Kişisel verilerinizi nasıl topladığımız, hangi amaçlarla işlediğimiz ve KVKK kapsamındaki haklarınız.",
+      "title": "KVKK Aydınlatma Metni ve Gizlilik Politikası",
+      "lead": "Bu metin, Meridyen Gayrimenkul ile paylaştığınız kişisel verilerin nasıl işlendiğini ve KVKK kapsamındaki haklarınızı açıklar.",
+      "sections": [
+        {
+          "heading": "1. Veri Sorumlusu",
+          "paragraphs": [
+            "Veri sorumlusu sıfatıyla Meridyen Gayrimenkul Danışmanlık A.Ş., Türkiye Cumhuriyeti sınırları içinde 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) uyarınca faaliyet gösterir.",
+            "Yasal merkezimiz: Çankaya, Ankara. İletişim ve başvuru kanalları için bu metnin sonundaki bölüme bakabilirsiniz."
+          ]
+        },
+        {
+          "heading": "2. İşlediğimiz Kişisel Veriler",
+          "paragraphs": [
+            "İletişim formu ve doğrudan başvurularınızda; ad-soyad, telefon, e-posta, ilgi alanı ve ileti içeriği gibi verileri toplarız.",
+            "Web sitesini ziyaret ettiğinizde; sayfa görüntüleme, oturum süresi ve cihaz türü gibi anonim ölçüm verileri Vercel Analytics aracılığıyla kişisel veri içermeden toplanır."
+          ]
+        },
+        {
+          "heading": "3. İşleme Amaçları ve Hukuki Sebepler",
+          "paragraphs": [
+            "Verilerinizi; talebinize yanıt vermek, randevu planlamak, hizmet sunmak ve sözleşmesel yükümlülüklerimizi yerine getirmek amacıyla işleriz.",
+            "Hukuki sebep olarak KVKK m.5/2-c (sözleşmenin kurulması veya ifası), m.5/2-f (meşru menfaat) ve gerektiğinde m.5/1 (açık rıza) hükümlerine dayanırız."
+          ]
+        },
+        {
+          "heading": "4. Saklama Süreleri",
+          "paragraphs": [
+            "İletişim talepleri en fazla 24 ay süreyle saklanır; bu sürenin ardından silinir veya anonim hale getirilir.",
+            "Sözleşmesel ilişki kurulduğunda, vergi ve ticaret mevzuatı gereği ilgili belgeler 10 yıla kadar saklanabilir."
+          ]
+        },
+        {
+          "heading": "5. Üçüncü Taraflarla Paylaşım",
+          "paragraphs": [
+            "Verileriniz, hizmetin yürütülmesi için zorunlu olan altyapı sağlayıcılarımız (örn. e-posta dağıtımı, hosting) ile sınırlı şekilde paylaşılır.",
+            "Yetkili kamu kurumları tarafından kanuni dayanakla talep edilmediği sürece üçüncü kişilere aktarılmaz; pazarlama amacıyla satılmaz."
+          ]
+        },
+        {
+          "heading": "6. KVKK Madde 11 Kapsamındaki Haklarınız",
+          "paragraphs": [
+            "Kişisel verilerinizin işlenip işlenmediğini öğrenme, işlenmişse buna ilişkin bilgi talep etme, işleme amacını ve verilerin amacına uygun kullanılıp kullanılmadığını öğrenme hakkına sahipsiniz.",
+            "Yurt içinde veya yurt dışında verilerin aktarıldığı üçüncü kişileri öğrenme, eksik veya yanlış işlenmiş verilerin düzeltilmesini, KVKK m.7'de öngörülen şartlar çerçevesinde silinmesini veya yok edilmesini isteyebilirsiniz.",
+            "Bu hakları kullanmak için aşağıdaki iletişim adresinden bize yazılı olarak ulaşabilirsiniz; başvurular en geç 30 gün içinde sonuçlandırılır."
+          ]
+        },
+        {
+          "heading": "7. İletişim",
+          "paragraphs": [
+            "KVKK kapsamındaki başvurularınızı orhan.stack@gmail.com adresine veya iletişim sayfamızdaki kanallar üzerinden iletebilirsiniz."
+          ]
+        }
+      ]
+    },
+    "cookies": {
+      "metadataTitle": "Çerez Politikası",
+      "metadataDescription": "Sitemizde kullandığımız çerezler ve tercihlerinizi nasıl yönetebileceğiniz.",
+      "title": "Çerez Politikası",
+      "lead": "Bu sayfa, web sitemizde hangi çerezleri ve benzeri teknolojileri kullandığımızı, hangi amaçlarla işlediğimizi açıklar.",
+      "sections": [
+        {
+          "heading": "1. Çerez Nedir",
+          "paragraphs": [
+            "Çerezler, ziyaret ettiğiniz web sitelerinin tarayıcınıza yerleştirdiği küçük metin dosyalarıdır. Oturum sürekliliği, tercih hatırlama ve anonim trafik ölçümü gibi işlevler için kullanılırlar."
+          ]
+        },
+        {
+          "heading": "2. Hangi Çerezleri Kullanıyoruz",
+          "paragraphs": [
+            "Zorunlu çerezler: site dilini ve tema tercihinizi (açık/koyu) hatırlamak için tarayıcınızda saklanır. Bu çerezler olmadan site doğru çalışmaz.",
+            "Performans ölçümü: Vercel Speed Insights ve Vercel Analytics kullanırız. Her ikisi de varsayılan olarak çerezsiz çalışır ve kişisel veri toplamaz; sadece anonim sayfa metrikleri tutulur."
+          ]
+        },
+        {
+          "heading": "3. Üçüncü Taraf Çerezleri",
+          "paragraphs": [
+            "Sitemiz, fotoğraflar için Unsplash görsel hizmetini kullanır. Görsellerin kendisi çerez yerleştirmez; ancak Unsplash'in kendi alan adından gelen istekler standart sunucu loglarına tabidir."
+          ]
+        },
+        {
+          "heading": "4. Çerez Tercihleri",
+          "paragraphs": [
+            "Tarayıcı ayarlarınızdan çerezleri silebilir veya engelleyebilirsiniz. Zorunlu çerezleri devre dışı bırakırsanız tema ve dil tercihiniz her ziyarette sıfırlanır.",
+            "Çoğu modern tarayıcıda 'Geliştirici Araçları > Uygulama > Çerezler' menüsünden site bazında çerezleri inceleyebilir ve silebilirsiniz."
+          ]
+        },
+        {
+          "heading": "5. İletişim",
+          "paragraphs": ["Çerezler hakkındaki sorularınızı orhan.stack@gmail.com adresine iletebilirsiniz."]
+        }
+      ]
+    },
+    "terms": {
+      "metadataTitle": "Kullanım Koşulları",
+      "metadataDescription": "Web sitemizi kullanırken geçerli olan koşullar ve sorumluluk sınırları.",
+      "title": "Kullanım Koşulları",
+      "lead": "Web sitemizi ziyaret ederek aşağıdaki koşulları kabul etmiş olursunuz.",
+      "sections": [
+        {
+          "heading": "1. Kapsam",
+          "paragraphs": [
+            "Bu metin, Meridyen Gayrimenkul'ün web sitesini kullanan tüm ziyaretçiler için geçerlidir. Sitenin herhangi bir bölümünü kullanmaya devam ettiğinizde bu koşulları kabul etmiş sayılırsınız."
+          ]
+        },
+        {
+          "heading": "2. İçerik ve Telif Hakkı",
+          "paragraphs": [
+            "Site üzerindeki metinler, görseller, logo ve diğer içerikler Meridyen Gayrimenkul'e aittir veya lisanslıdır. Yazılı izin olmadan ticari amaçla çoğaltılamaz, dağıtılamaz veya yeniden yayımlanamaz.",
+            "Fotoğraflar gösterim amaçlı olup gerçek mülkleri temsil etmez."
+          ]
+        },
+        {
+          "heading": "3. Sorumluluk Sınırları",
+          "paragraphs": [
+            "Sitedeki bilgiler genel tanıtım amaçlıdır; bağlayıcı bir teklif veya sözleşme niteliği taşımaz. Tüm gayrimenkul süreçleri ayrı bir sözleşme ile yürütülür.",
+            "Site içeriğinin doğruluğu için makul özen gösterilse de, içeriğin güncelliğinden veya eksiksizliğinden kaynaklanan zararlardan sorumluluk kabul edilmez."
+          ]
+        },
+        {
+          "heading": "4. Değişiklikler",
+          "paragraphs": ["Bu kullanım koşullarını gerektiğinde güncelleme hakkımızı saklı tutarız. Güncel sürüm her zaman bu sayfada yayımlanır."]
+        },
+        {
+          "heading": "5. Uygulanacak Hukuk",
+          "paragraphs": [
+            "Bu koşullar Türkiye Cumhuriyeti hukukuna tabidir. Doğabilecek uyuşmazlıklarda Ankara mahkemeleri ve icra daireleri yetkilidir."
+          ]
+        }
+      ]
+    }
+  }
+}

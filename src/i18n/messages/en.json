@@ -1,0 +1,462 @@
+{
+  "metadata": {
+    "title": "Meridyen Real Estate | Established Property Advisory in Ankara",
+    "description": "Meridyen Real Estate is an Ankara-based property advisory firm with 17 years of experience in residential, commercial and land transactions across the city's prime districts.",
+    "keywords": "Ankara real estate, Ankara property, villa, apartment, land, commercial, for sale, for rent, advisory"
+  },
+  "seo": {
+    "ogTitle": "Ankara's property advisor · Meridyen Real Estate",
+    "ogDescription": "Villas, apartments, land and commercial property across Ankara's most active districts. 17 years on the ground.",
+    "ogImageAlt": "Meridyen Real Estate · Ankara's established property advisor"
+  },
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "regions": "Regions",
+    "testimonials": "Testimonials",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "themeToggle": "Toggle theme",
+    "languageToggle": "Change language",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "callNow": "Call Now",
+    "skipToContent": "Skip to content"
+  },
+  "hero": {
+    "eyebrow": "Ankara · Established Property Advisory",
+    "title": "Ankara's property advisor since 2008.",
+    "subtitle": "From Çankaya to Bilkent, we work the neighbourhoods Ankara investors actually buy in, with a portfolio that spans villas, apartments, land and commercial property.",
+    "primaryCta": "Get in Touch",
+    "secondaryCta": "Our Services",
+    "scrollHint": "Scroll down",
+    "stats": {
+      "experience": "Years of experience",
+      "transactions": "Completed transactions",
+      "satisfaction": "Client satisfaction"
+    }
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "17 years in Ankara, with the same team.",
+    "lead": "Since 2008 we've worked out of the same Çankaya office. From building the portfolio to closing the sale or managing the lease, every stage is handled by one advisor, so your file never gets lost in a handover.",
+    "paragraph1": "Our work doesn't end at the signed contract. We sit down with you on valuation, contract law and financing, and we read every document before it goes to the other side.",
+    "paragraph2": "Every advisor on our team is licensed and has spent years in the neighbourhood they cover. When we recommend a price, we show you the comparable sales from the last six months and the reasoning behind it.",
+    "facts": {
+      "founded": "Founded",
+      "office": "Headquarters",
+      "team": "Licensed advisors",
+      "languages": "Working languages"
+    },
+    "factsValues": {
+      "team": "Team of 12",
+      "languages": "EN · TR"
+    },
+    "imageAlt": "Meridyen Real Estate team and office environment"
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Buying, selling, leasing, investing. One team, one file.",
+    "lead": "Whether you're buying a single home or planning a portfolio, the same team takes the brief and runs the process from beginning to end.",
+    "items": {
+      "residential": {
+        "title": "Residential Sales",
+        "description": "Apartments and villas from Ankara's most active districts: Çankaya, Çayyolu and Bilkent. Every listing is visited and qualified by us before it reaches you."
+      },
+      "rental": {
+        "title": "Leasing",
+        "description": "Tenant screening, contract management and, if it ever comes to it, the eviction process. Short and long-term leases handled in your name."
+      },
+      "investment": {
+        "title": "Investment Advisory",
+        "description": "We sit down on rental yields by district, expected appreciation and exit scenarios, then turn the conversation into a written investment plan."
+      },
+      "commercial": {
+        "title": "Land & Commercial",
+        "description": "Shops, offices and land. We chase the zoning paperwork, the permit process and the valuation report on your behalf."
+      },
+      "valuation": {
+        "title": "Property Valuation",
+        "description": "SPK-licensed appraisers prepare independent valuation reports for sales, mortgage applications or estate proceedings. Defensible numbers, properly sourced."
+      },
+      "portfolio": {
+        "title": "Portfolio Management",
+        "description": "For owners with multiple properties: rent collection, maintenance, vendor management and a monthly performance report, all run through a single file."
+      }
+    }
+  },
+  "regions": {
+    "eyebrow": "Regions",
+    "title": "Neighbourhoods we walk and prices we know.",
+    "lead": "We work neighbourhood by neighbourhood. Each of the districts below has live inventory in our hands and average sale times below the Ankara baseline.",
+    "indicator": "Active inventory",
+    "propertyTypes": {
+      "villa": "Villa",
+      "apartment": "Apartment",
+      "land": "Land",
+      "commercial": "Retail",
+      "office": "Office"
+    },
+    "items": {
+      "cankaya": {
+        "name": "Çankaya",
+        "tagline": "Ankara's diplomatic and business core; this is where our deepest apartment and office inventory sits."
+      },
+      "cayyolu": {
+        "name": "Çayyolu",
+        "tagline": "Family-led demand drives a deep stock of modern gated communities and detached villas; the metro line has lifted lifestyle further."
+      },
+      "bilkent": {
+        "name": "Bilkent",
+        "tagline": "A planned settlement around the university; tenant demand from students and academics keeps yields steady."
+      },
+      "oran": {
+        "name": "Oran",
+        "tagline": "A quieter, greener pocket; appeals to buyers after a detached home with a garden and to long-term land investors."
+      },
+      "beysukent": {
+        "name": "Beysukent",
+        "tagline": "A district shaping up fast; luxury villa demand and investment-land activity have concentrated here over the last few years."
+      },
+      "kecioren": {
+        "name": "Keçiören",
+        "tagline": "Deep apartment stock, busy commercial life; a sensible entry point for first-time investors."
+      }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Testimonials",
+    "title": "What our clients have to say.",
+    "lead": "What clients tell us after the work is done says more about the team than we ever could.",
+    "items": {
+      "esra": {
+        "quote": "I'm an architect, so I question everything. They answered each question patiently and treated buying our home as the long-term decision it actually was, not a transaction to close.",
+        "name": "Esra Y.",
+        "role": "Architect",
+        "location": "Çayyolu, Ankara"
+      },
+      "kaan": {
+        "quote": "We've worked together on three different portfolio investments. They didn't sugarcoat the risky bits, and at one point they walked me away from a deal that looked good on paper. I haven't found another team this honest.",
+        "name": "Kaan T.",
+        "role": "Investor",
+        "location": "Çankaya, Ankara"
+      },
+      "meltem": {
+        "quote": "I was buying my first home and didn't know how any of it worked. They walked me through the valuation, the mortgage paperwork and the move without ever rushing me. The day I picked up the keys I knew I'd had a real team behind me.",
+        "name": "Meltem A.",
+        "role": "Physician",
+        "location": "Bilkent, Ankara"
+      },
+      "serdar": {
+        "quote": "We had a piece of land that had been sitting for years. They moved it in six months at the price it deserved. They understand the commercial side and behaved more like a business partner than an agent.",
+        "name": "Serdar B.",
+        "role": "Restaurateur",
+        "location": "Oran, Ankara"
+      }
+    }
+  },
+  "faq": {
+    "eyebrow": "Frequently Asked",
+    "title": "Questions most clients ask before deciding.",
+    "lead": "The questions we get most often, gathered in one place. If yours isn't covered, the contact form is the fastest way to reach us.",
+    "items": {
+      "commission": {
+        "question": "How is the commission set?",
+        "answer": "Real estate advisory rates are set by Turkish law and updated each year. The standard rate is 2% + VAT, charged separately to buyer and seller on a sale, and one month's rent on a lease. For larger portfolios we also write custom contracts with alternative pricing."
+      },
+      "duration": {
+        "question": "How long does a typical sale take?",
+        "answer": "For a correctly priced property with the appraisal ready, our average is 30–60 days from listing to handover. The path runs through valuation, professional photography, targeted marketing, qualified showings, an offer letter and the title transfer. You'll have a clear timeline in your hands within the first week."
+      },
+      "whyMeridyen": {
+        "question": "Why Meridyen?",
+        "answer": "Seventeen years on the ground in Ankara and a team of twelve licensed advisors. Every file is owned by one advisor: communication, paperwork, valuation, legal and financing coordination all run through the same person, so you're never repeating yourself to a third party."
+      },
+      "kvkk": {
+        "question": "How is my personal data protected?",
+        "answer": "Our data policy is aligned with both Turkish KVKK and EU GDPR. Data is held only within contractual necessity and legitimate interest, and we never share it with a third party without your explicit consent. The full policy is attached to every contract."
+      },
+      "valuation": {
+        "question": "Can I get an independent valuation report for my property?",
+        "answer": "Yes. Our SPK-licensed appraisers prepare independent valuation reports for sales, mortgage applications or estate proceedings. Each report includes comparable sales, district metrics and a defensible price range, robust enough for court if needed."
+      },
+      "remote": {
+        "question": "Can I transact from outside Ankara or from abroad?",
+        "answer": "Yes. For out-of-town and international clients we run the entire process via video calls, digital contracts and a notarised power of attorney. We work in EN and TR."
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's talk through what you're planning.",
+    "lead": "Send us a note and we'll come back within {hours, plural, one {# hour} other {# hours}}, always through the same advisor. For anything urgent, phone or WhatsApp is faster.",
+    "info": {
+      "channelsTitle": "Direct channels",
+      "callLabel": "Phone",
+      "whatsappLabel": "WhatsApp",
+      "emailLabel": "Email",
+      "hoursTitle": "Office hours",
+      "hoursWeekdays": "Monday – Friday",
+      "hoursSaturday": "Saturday",
+      "hoursSunday": "Sunday",
+      "hoursClosed": "Closed",
+      "addressTitle": "Office",
+      "openInMaps": "Open in Maps",
+      "responseTitle": "First response",
+      "responseValue": "within {hours, plural, one {# hour} other {# hours}}",
+      "responseHint": "Average for messages received during business hours."
+    },
+    "form": {
+      "title": "Write to us",
+      "description": "The form lands directly in our inbox.",
+      "fields": {
+        "name": {
+          "label": "Full name",
+          "placeholder": "e.g. Mehmet Yıldız"
+        },
+        "email": {
+          "label": "Email",
+          "placeholder": "you@example.com"
+        },
+        "phone": {
+          "label": "Phone (optional)",
+          "placeholder": "+90 5XX 000 00 00",
+          "hint": "Happy for us to reach out via WhatsApp too?"
+        },
+        "interest": {
+          "label": "Service of interest",
+          "placeholder": "Select a service",
+          "options": {
+            "residential": "Residential sales",
+            "rental": "Leasing",
+            "investment": "Investment advisory",
+            "commercial": "Land & commercial",
+            "valuation": "Property valuation",
+            "portfolio": "Portfolio management",
+            "other": "Other / not sure yet"
+          }
+        },
+        "region": {
+          "label": "Preferred region (optional)",
+          "placeholder": "Select a region",
+          "options": {
+            "cankaya": "Çankaya",
+            "cayyolu": "Çayyolu",
+            "bilkent": "Bilkent",
+            "oran": "Oran",
+            "beysukent": "Beysukent",
+            "kecioren": "Keçiören",
+            "other": "Not listed / elsewhere"
+          }
+        },
+        "message": {
+          "label": "Your message",
+          "placeholder": "A few sentences on your property, your goals, or anything you'd like us to clarify."
+        },
+        "consent": {
+          "label": "I have read the data-processing notice and consent to my personal data being processed for the purpose of contact.",
+          "policyLink": "Read the data-processing notice"
+        }
+      },
+      "submit": "Send message",
+      "submitting": "Sending…",
+      "success": {
+        "title": "Your message reached us.",
+        "description": "We'll be back to you within {hours, plural, one {# hour} other {# hours}}. For anything urgent, please call +90 312 000 00 00.",
+        "again": "Send another message"
+      },
+      "errors": {
+        "name": "Please write your full name (at least 2 characters).",
+        "nameMax": "Name should be 80 characters or fewer.",
+        "email": "Please enter a valid email address.",
+        "phone": "Please enter a valid phone number (e.g. +90 5XX 000 00 00).",
+        "interest": "Please select a service.",
+        "messageMin": "Your message should be at least 10 characters.",
+        "messageMax": "Your message should be 1000 characters or fewer.",
+        "consent": "Consent is required to proceed.",
+        "rateLimited": "Too many requests in a short time. Please try again in a few seconds.",
+        "spamSuspected": "Form validation failed. Please refresh the page and try again.",
+        "generic": "Your message couldn't be sent. Please try again in a few minutes."
+      },
+      "honeypot": "Leave this field empty",
+      "requiredHint": "Fields marked with * are required."
+    }
+  },
+  "footer": {
+    "pitch": "We work the most active neighbourhoods of Ankara across villas, apartments, land and commercial real estate, on the buying, selling and leasing side.",
+    "columns": {
+      "explore": "Explore",
+      "contact": "Contact",
+      "legal": "Legal"
+    },
+    "legal": {
+      "privacy": "Privacy & KVKK",
+      "cookies": "Cookie Policy",
+      "terms": "Terms of Use"
+    },
+    "bottom": {
+      "rights": "All rights reserved.",
+      "mersis": "MERSIS",
+      "taxOffice": "Tax Office",
+      "designerPrefix": "Designed & engineered by"
+    },
+    "social": {
+      "follow": "Follow us"
+    }
+  },
+  "notFound": {
+    "eyebrow": "404",
+    "title": "Page not found",
+    "description": "The page you're looking for may have been removed or never existed.",
+    "cta": "Back to home"
+  },
+  "error": {
+    "eyebrow": "Unexpected error",
+    "title": "Something went off",
+    "description": "We hit a snag while loading this page. You can try again or head back home.",
+    "retry": "Try again",
+    "home": "Back to home",
+    "digestPrefix": "Error ID"
+  },
+  "common": {
+    "comingSoon": "Coming soon",
+    "learnMore": "Learn more"
+  },
+  "legal": {
+    "lastUpdated": "Last updated: February 2026",
+    "templateNotice": "This document is a template. We recommend a legal review before going live in production.",
+    "backToHome": "Back to home",
+    "tableOfContents": "Contents",
+    "privacy": {
+      "metadataTitle": "Privacy & KVKK",
+      "metadataDescription": "How we collect your personal data, the purposes we process it for, and your rights under KVKK and GDPR.",
+      "title": "Privacy Policy & KVKK Disclosure",
+      "lead": "This page explains how Meridyen Gayrimenkul handles the personal data you share with us, and the rights you hold under Turkish KVKK and EU GDPR frameworks.",
+      "sections": [
+        {
+          "heading": "1. Data Controller",
+          "paragraphs": [
+            "Meridyen Gayrimenkul Danışmanlık A.Ş. acts as the data controller under Law No. 6698 on the Protection of Personal Data (KVKK).",
+            "Our office is in Çankaya, Ankara. You will find our contact channels at the bottom of this page."
+          ]
+        },
+        {
+          "heading": "2. Personal Data We Process",
+          "paragraphs": [
+            "Through the contact form and direct enquiries we collect: full name, phone number, email address, the topic of interest and the message you send us.",
+            "When you visit our site, anonymous usage signals (page views, session duration, device type) are collected via Vercel Analytics. These signals do not contain personal data."
+          ]
+        },
+        {
+          "heading": "3. Purposes and Legal Bases",
+          "paragraphs": [
+            "We process your data to respond to your enquiry, schedule appointments, deliver our services and meet our contractual obligations.",
+            "Our legal bases are: KVKK Art. 5/2-c (necessary for the performance of a contract), Art. 5/2-f (legitimate interest), and Art. 5/1 (explicit consent) where applicable."
+          ]
+        },
+        {
+          "heading": "4. Retention Periods",
+          "paragraphs": [
+            "Contact enquiries are kept for up to 24 months and then deleted or anonymised.",
+            "Once a contractual relationship begins, related documents may be retained for up to 10 years to comply with tax and commercial law."
+          ]
+        },
+        {
+          "heading": "5. Sharing with Third Parties",
+          "paragraphs": [
+            "Your data is shared only with the infrastructure providers required to deliver the service (e.g. email delivery, hosting), and only to the minimum extent necessary.",
+            "Beyond that, data is not transferred to third parties unless requested by competent authorities under a legal basis. We do not sell personal data for marketing purposes."
+          ]
+        },
+        {
+          "heading": "6. Your Rights",
+          "paragraphs": [
+            "You have the right to know whether your personal data is processed, request information about the processing, learn the purpose and whether your data is used in line with that purpose.",
+            "You may also request the identification of any third parties (in Turkey or abroad) to whom your data has been transferred, ask for incorrect or incomplete data to be corrected, and request deletion or destruction under KVKK Art. 7.",
+            "Send your written request to the contact address below. We will respond within 30 days at the latest."
+          ]
+        },
+        {
+          "heading": "7. Contact",
+          "paragraphs": ["Send privacy enquiries to orhan.stack@gmail.com or use the channels on our contact page."]
+        }
+      ]
+    },
+    "cookies": {
+      "metadataTitle": "Cookie Policy",
+      "metadataDescription": "Which cookies we use on this website and how to manage your preferences.",
+      "title": "Cookie Policy",
+      "lead": "This page describes the cookies and similar technologies we use on the website and the purposes for which we use them.",
+      "sections": [
+        {
+          "heading": "1. What Are Cookies",
+          "paragraphs": [
+            "Cookies are small text files that websites place in your browser. They are used for things like keeping a session open, remembering preferences, and measuring anonymous traffic."
+          ]
+        },
+        {
+          "heading": "2. Cookies We Use",
+          "paragraphs": [
+            "Strictly necessary: we store your language and theme preference (light/dark) in your browser. The site cannot function correctly without these.",
+            "Performance measurement: we use Vercel Speed Insights and Vercel Analytics. Both are cookieless by default and do not collect personal data; only anonymous page-level metrics are recorded."
+          ]
+        },
+        {
+          "heading": "3. Third-Party Cookies",
+          "paragraphs": [
+            "We use the Unsplash image service for photography. The images themselves do not set cookies, but requests to Unsplash domains are subject to their own standard server logs."
+          ]
+        },
+        {
+          "heading": "4. Managing Preferences",
+          "paragraphs": [
+            "You can delete or block cookies through your browser settings. If you disable strictly necessary cookies, your theme and language preference will reset on every visit.",
+            "In most modern browsers you can inspect and delete site cookies via 'Developer Tools > Application > Cookies'."
+          ]
+        },
+        {
+          "heading": "5. Contact",
+          "paragraphs": ["Send cookie-related questions to orhan.stack@gmail.com."]
+        }
+      ]
+    },
+    "terms": {
+      "metadataTitle": "Terms of Use",
+      "metadataDescription": "The terms that apply when you use our website and the limits of our liability.",
+      "title": "Terms of Use",
+      "lead": "By visiting our website you agree to the following terms.",
+      "sections": [
+        {
+          "heading": "1. Scope",
+          "paragraphs": [
+            "These terms apply to every visitor of the Meridyen Gayrimenkul website. Continuing to use any part of the site means you accept them."
+          ]
+        },
+        {
+          "heading": "2. Content & Copyright",
+          "paragraphs": [
+            "All text, imagery, logos and other content on the site belong to Meridyen Gayrimenkul or are licensed to us. They may not be reproduced, redistributed or republished for commercial purposes without written permission.",
+            "Photography is shown for illustration only and does not represent specific properties."
+          ]
+        },
+        {
+          "heading": "3. Limitation of Liability",
+          "paragraphs": [
+            "Information on the site is provided for general orientation and does not constitute a binding offer or contract. Every real estate transaction is governed by a separate agreement.",
+            "While we take reasonable care to keep the content accurate, we accept no liability for damages arising from the timeliness or completeness of the content."
+          ]
+        },
+        {
+          "heading": "4. Changes",
+          "paragraphs": ["We reserve the right to update these terms when needed. The current version is always published on this page."]
+        },
+        {
+          "heading": "5. Governing Law",
+          "paragraphs": [
+            "These terms are governed by the laws of the Republic of Türkiye. The courts and execution offices of Ankara have exclusive jurisdiction over any disputes."
+          ]
+        }
+      ]
+    }
+  }
+}
