@@ -41,7 +41,11 @@ export default async function RootLayout({ children }: { children: React.ReactNo
         <link rel="dns-prefetch" href="https://images.unsplash.com" />
         {/* FOUC bootstrap — corrects the theme class before first paint when */}
         {/* the cookie-derived class above is stale (e.g. system mode). */}
-        <script nonce={nonce} dangerouslySetInnerHTML={{ __html: buildThemeBootstrapScript() }} />
+        {/* `suppressHydrationWarning` is required because the browser hides the */}
+        {/* CSP `nonce` attribute from DOM reflection (per HTML spec, to prevent */}
+        {/* XSS exfiltration), so React's hydration check sees an empty nonce */}
+        {/* on the client and reports a false-positive mismatch. */}
+        <script nonce={nonce} suppressHydrationWarning dangerouslySetInnerHTML={{ __html: buildThemeBootstrapScript() }} />
       </head>
       <body className="min-h-dvh bg-background text-foreground antialiased">
         <ThemeProvider initialTheme={theme} initialResolvedTheme={resolvedTheme}>

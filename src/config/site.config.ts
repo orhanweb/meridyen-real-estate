@@ -198,10 +198,14 @@ export const siteConfig = {
   /** FAQ catalog — order here drives render order. */
   faq: FAQ_IDS,
 
-  /** Editorial / hero imagery. Replace with client photography for production. */
+  /**
+   * Editorial / hero imagery. Replace with client photography for production.
+   * Hero binary lives at `src/assets/hero/main.jpg` and is statically imported
+   * by the Hero component so Next.js can emit width/height + a base64 LQIP
+   * placeholder at build time. Only descriptive metadata is mirrored here.
+   */
   assets: {
     hero: {
-      src: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2400&q=80',
       alt: 'Modern luxury residence at golden hour',
       credit: 'Unsplash'
     },
